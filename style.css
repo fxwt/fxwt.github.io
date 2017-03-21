@@ -12,6 +12,7 @@ font-weight: normal;
 }
 
 ul{
+  font-variant: small-caps;
   list-style-type: none;
   text-align: justify;
   display: flex;
